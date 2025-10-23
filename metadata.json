@@ -1,0 +1,5 @@
+{
+  "name": "PromptForge",
+  "description": "An AI-powered app that analyzes your images and generates creative, optimized prompts for AI image generators. Upload a photo or sketch, get a detailed visual breakdown, and receive multiple prompt variations to inspire your next creation.",
+  "requestFramePermissions": []
+}
